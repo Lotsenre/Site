@@ -1,0 +1,4 @@
+# Минимальная конфигурация
+Options -Indexes
+AddDefaultCharset UTF-8
+DirectoryIndex index.php index.html
